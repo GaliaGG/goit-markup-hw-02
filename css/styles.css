@@ -1,0 +1,92 @@
+:root {
+    --primary-text-color: #757575;
+    --secondary-text-color: #212121;
+    --accent-text-color: #2196F3;
+    --primary-bg-color: #E5E5E5;
+    --secondary-bg-color:#F5F4FA;
+
+    --primary-font-family: 'Roboto', sans-serif;
+    --secondary-font-family: 'Raleway', sans-serif;
+    --primary-font-size: 14px;
+}
+
+/* Common styles */
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list {
+    list-style: none;
+}
+
+.button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-family: inherit;
+    color: inherit;
+}
+
+.section {
+    background-color: var(--primary-bg-color);
+}
+
+
+body {
+    background-color: var(--primary-bg-color);
+    color: var(--primary-text-color);
+    font-family: var(--primary-font-family);
+    font-size: var(--primary-font-size);
+    font-style: normal;
+    letter-spacing: 0.03em;
+}
+
+/* Header */
+
+.span {
+    color: var(--accent-text-color);
+}
+
+.logo {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+}
+
+.nav-link 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* :root {
+    --primary-text-color: #757575;
+    --secondary-text-color: #212121;
+    --accent-text-color: #2196F3;
+    --primary-bg-color: #E5E5E5;
+    --secondary-bg-color: #F5F4FA;
+
+    --primary-font-family: 'Roboto', sans-serif;
+    --secondary-font-family: 'Raleway', sans-serif;
+    --primary-font-size: 14px;
+} */
+
+
+
+
+
+
+
+
+
